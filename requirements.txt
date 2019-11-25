@@ -1,0 +1,7 @@
+python_prctl
+psutil
+pycrypto
+nose
+radon
+coverage
+pytest
